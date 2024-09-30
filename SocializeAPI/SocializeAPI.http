@@ -1,0 +1,6 @@
+@SocializeAPI_HostAddress = http://localhost:5068
+
+GET {{SocializeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
